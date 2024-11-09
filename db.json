@@ -41,6 +41,30 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "sukuma",
+      "image": "https://zucchini.co.ke/cdn/shop/products/0000000004614-removebg-preview-removebg-preview_1.jpg?v=1669704118",
+      "price": 18.26,
+      "id": 8
+    },
+    {
+      "name": "sukuma",
+      "image": "https://zucchini.co.ke/cdn/shop/products/0000000004614-removebg-preview-removebg-preview_1.jpg?v=1669704118",
+      "price": 18.26,
+      "id": 9
+    },
+    {
+      "name": "cabbage",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyDUN5SUsLMUAupeWKUS6iw_q_0fMGv6EPSg&s",
+      "price": "12.65",
+      "id": 17
+    },
+    {
+      "name": "cabbage",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhNQKAJ281YWXCkoXP2jfU3c5uRszEkMEbIVQLh_MpBaNQ-Ty4RK3rEcAsoOy_tmu91ts&usqp=CAU",
+      "price": "12.65",
+      "id": 18
     }
   ]
 }
